@@ -2,15 +2,15 @@
 
 <img src="https://github.com/jailas/jailas/blob/main/images/banner.png?raw=true" href="https://github.com/jailas" alt="Hello world" /> <br>
 
-<h1 align="center">Hola, Bienvenido. Hi, Welcome. 👋</h1>
+<h1 align="center">Hi, Welcome / Hola, Bienvenido / Olá, Bem-vindo 👋</h1>
 
 ###
 
 <h4 align="left">
  <img width="15%" align="right" alt="Github Image" src="https://github.com/jailas/jailas/blob/main/images/github.gif?raw=true" /><br> 
- <img alt="GIF" src="https://github.com/jailas/jailas/blob/main/images/dev.gif" width="25" /> I am a PHP Full Stack Developer with 7 years of experience.<br>
- <img src="https://github.com/jailas/jailas/blob/main/images/message.gif?raw=true" width="25" /> I code and speak in 3 languages: English, Español and Português.<br>
- <img src="https://github.com/jailas/jailas/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I love cats</h3>
+ <img alt="GIF" src="https://github.com/jailas/jailas/blob/main/images/dev.gif" width="25" /> I am a PHP Full Stack Developer with 7 years of experience<br>
+ <img src="https://github.com/jailas/jailas/blob/main/images/message.gif?raw=true" width="25" /> I code and speak in 3 languages: English, Español and Português<br>
+ <img src="https://github.com/jailas/jailas/blob/main/images/hyperkitty.gif?raw=true" width="25" /> I love cats</h3>
 
 ###
 
